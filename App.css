@@ -1,0 +1,194 @@
+body,html
+{
+	height: 100% !important;
+	width: 100% !important;
+}
+.back
+{
+	background-color: #191d28 !important;
+}
+
+.head
+{
+	color: #6ccacb !important;
+	text-decoration: none !important;
+}
+.sub
+{
+	color: #6b6c6e !important;
+}
+.nv
+{
+	background-color: #191d28 !important;
+}
+.rght
+{
+	background-color: #2e3241 !important;
+	margin-left: 15px !important;
+}
+.rght1
+{
+	color: white;
+	letter-spacing: -5px !important;
+}
+.box
+{
+	border: 4px solid white !importaant;
+}
+.shft-rght
+{
+	color:#6ccacb !important;
+	zoom: 1.2;
+}
+.btn
+{
+	background-color: #3dc6c1 !important;
+	color: white !important;
+	width: 230px !important;
+	height: 20% !important;
+	border-radius: 12px !important ;
+}
+.ic
+{
+	transform: rotate(310deg);
+}
+.head1
+{
+	color: #53c1c0 !important;
+}
+.img
+{
+	width: 100% !important;
+	border-radius: 30px ;
+	background-color:  #191d28 !important
+}
+.box1
+{
+	background-color: #2e3241 !important;
+
+}
+.rght2
+{
+	color: white;
+	margin-left: 3% !important;
+	font-size: 40px !important;
+	
+}
+.txt
+{
+	font-size: 30px;
+}
+.sz
+{
+	
+	width: 2% !important;
+	left: 5% !important;
+	position: relative;
+	top: 5% !important;
+	
+}
+.lft
+{
+	margin-left: 13% !important;
+	font-size: 30px;
+	letter-spacing: -3px !important;
+}
+.lft1
+{
+	margin-left: 6% !important;
+	font-size: 30px;
+	font-family: cretype!important;
+	letter-spacing: -0.5px !important;
+}
+.lft2
+{
+	margin-left: 5% !important;
+	letter-spacing: -1.3px !important;
+	font-size: 30px;
+	font-family: arial!important;
+	color: #5dc7c2;
+}
+.lft3
+{
+	margin-left: 10% !important;
+	letter-spacing: -1.3px !important;
+	font-size: 30px;
+	font-family: arial!important;
+	color: #5dc7c2;
+}
+.sz1
+{
+	width: 10% !important;
+	left: 3.5% !important;
+	position: relative;
+	top: -17% !important;
+}
+.lft4
+{
+	margin-left: 17.4% !important;
+	font-size: 30px;
+	letter-spacing: -3px !important;
+}
+.lf1
+{
+	margin-left: 12% !important;
+	font-size: 30px;
+	letter-spacing: -3px !important;
+}
+.lf2
+{
+	margin-left: 11% !important;
+	font-size: 30px;
+	letter-spacing: -3px !important;
+}
+.lf3
+{
+	margin-left: 13.5% !important;
+	font-size: 30px;
+	letter-spacing: -3px !important;
+}
+.img-wd
+{
+	/*height: 20% !important;*/
+	width: 20% !important;
+	position: relative;
+	right: -1165px;
+	top: -50px;
+}
+.crd
+{
+	border-radius: 90px !important;
+
+}
+.txt1
+{
+	margin-top: 2% !important;
+	margin-left: 5% !important;
+}
+.crd-btn
+{
+	background-color: #02a6c2 !important;
+	font-size: 24px !important;
+	border-radius: 10px !important;
+	margin-top: -10% !important;
+	margin-left: -20% !important;
+}
+.crd1
+{
+	/*s*/
+}
+.cpy
+{
+	color: #6b6c6e !important;
+
+}
+.hglt
+{
+	color: #3dc6c1;
+}
+.fxd
+{
+	background-attachment: fixed;
+	border: 2px solid #02a6c2 !important; 
+	color: #02a6c2 !important;
+}
