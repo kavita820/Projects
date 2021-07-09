@@ -1,0 +1,107 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body class="mygrid">
+
+<div class="nav">
+	<div class="logo"><br>
+		Lorem <br><span>Ipsum</span>
+	</div>
+	<div class="dropdown">
+		<button class="mobile menuicon"><i class="fa fa-align-left fa-2x" aria-hidden="true"></i></button>
+		<ul class="nav-menu">
+			<li class="active"><a href="">About</a></li>
+			<li><a href="">Services</a></li>
+			<li><a href="">Cuisine</a></li>
+			<li><a href="">Gallery</a></li>
+			<li><a href="">Contact</a></li>
+			<li><a href="">Book</a></li>
+		</ul>
+	</div>
+		<center>		
+			<button class="laptop">Cart</button>
+		</center>
+		<button class="mobile cart"><span class="fa fa-shopping-cart fa-2x"></span></button>
+</div>
+
+
+
+
+<div class="body">
+	<!-- <div class="mygrid"> -->
+		<!-- <div class=""> -->
+		<div class="txt">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et.</p>
+			<hr>
+		</div>
+			<h1 class="hd1">What are you<br> having for lunch?</h1>
+		<!-- </div> -->
+	<!-- </div> -->
+
+
+	<div class="product">
+		<ul>
+			<li>
+				<div class="box">
+					<div class="img">
+						<img src="https://imgk.timesnownews.com/story/chad-montano-lP5MCM6nZ5A-unsplash.jpg?tr=w-400,h-300,fo-auto">
+					</div>
+					<p>Mexican Taco</p>
+				</div>
+			</li>
+
+			<li>
+				<div class="box">
+					<div class="img">
+						<img src="https://www.santabanta.com/images/wallpapers/food/farmhouse-pizza-slices_1024-768.jpg">
+					</div>
+					<p>Farmhouse Pizza</p>
+				</div>
+			</li>
+
+
+			<li>
+				<div class="box">
+					<div class="img">
+						<img src="https://www.familyfoodonthetable.com/wp-content/uploads/2016/05/Cheddar-chicken-burgers-3-720x540.jpg">
+					</div>
+					<p>Chicken Burger</p>
+				</div>
+			</li>
+
+			<li>
+				<div class="box">
+					<div class="img">
+						<img src="https://149366112.v2.pressablecdn.com/wp-content/uploads/2016/05/whole-foods-loaded-nachos-1.jpg">
+					</div>
+					<p>Loaded Nachos</p>
+				</div>
+			</li>
+
+			<li>
+				<div class="box">
+					<div class="img">
+						<img src="https://i0.wp.com/curryandvanilla.com/wp-content/uploads/2017/01/noodles-hakka-schezawn2.jpg?resize=600%2C450&ssl=1">
+					</div>
+					<p>Hakka Noodles</p>
+				</div>
+			</li>
+
+
+
+		</ul>
+	</div>
+
+
+</div>
+
+
+</body>
+</html>
